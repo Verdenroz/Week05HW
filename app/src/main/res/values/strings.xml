@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Week05HW</string>
+    //Quiz Screen
+    <string name="header">You earned : $</string>
+    <string name="confirmButtonText">CONFIRM</string>
+    <string name="correctAnswerToast">Correct! You have earned: </string>
+    <string name="incorrectAnswerToast">Incorrect!</string>
+
+    //Question 1
+    <string name="question_1">How many stars are in the American flag?</string>
+    <string-array name="question_1_choices">
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+    <string name="question_1_answer">50</string>
+
+    //Question 2
+    <string name="question_2">Originally, Amazon sold what product?</string>
+    <string-array name="question_2_choices">
+        <item>Books</item>
+        <item>Shoes</item>
+        <item>Video games</item>
+        <item>Clothes</item>
+    </string-array>
+    <string name="question_2_answer">Books</string>
+
+    //Question 3
+    <string name="question_3">What day is known as Star Wars Day?</string>
+    <string-array name="question_3_choices">
+        <item>September 11th</item>
+        <item>May 4th</item>
+        <item>May 5th</item>
+        <item>October 10th</item>
+    </string-array>
+    <string name="question_3_answer">May 4th</string>
+
+    //Question 4
+    <string name="question_4">What do you call animals that only eat meat?</string>
+    <string-array name="question_4_choices">
+        <item>Carnivores</item>
+        <item>Herbivores</item>
+        <item>Omnivores</item>
+        <item>Vegans</item>
+    </string-array>
+    <string name="question_4_answer">Carnivores</string>
+
+    //Question 5
+    <string name="question_5">A person who specializes in the study of birds is called what?</string>
+    <string-array name="question_5_choices">
+        <item>Paleontologist</item>
+        <item>Biologist</item>
+        <item>Historian</item>
+        <item>Ornithologist</item>
+    </string-array>
+    <string name="question_5_answer">Ornithologist</string>
+
+    //Question 6
+    <string name="question_6">Who gifted the Statue of Liberty to the United States?</string>
+    <string-array name="question_6_choices">
+        <item>United Kingdom</item>
+        <item>France</item>
+        <item>South Africa</item>
+        <item>Canada</item>
+    </string-array>
+    <string name="question_6_answer">France</string>
+
+    //Question 7
+    <string name="question_7">What U.S. State is closest to Russia?</string>
+    <string-array name="question_7_choices">
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>New York</item>
+        <item>California</item>
+    </string-array>
+    <string name="question_7_answer">Alaska</string>
+
+    //Stats Screen
+    <string name="statsHeader">You have earned:</string>
+    <string name="statsCorrectAnswersp1">You Answered: </string>
+    <string name="statsCorrectAnswersp2"> / 7 Questions Correct</string>
+    <string name="restartButton">RESTART</string>
+</resources>
